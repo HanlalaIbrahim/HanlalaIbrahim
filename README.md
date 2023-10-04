@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanlala Ibrahim M G</h1>
-<h3 align="center">A passionate frontend developer | B.Tech[CSE] undergraduate in PMIST</h3>
+<h3 align="center">A passionate frontend developer | B.Tech[CSE] undergraduate at PMIST</h3>
 
 - 🔭 I’m currently working on **IMS (Inventory Management System)**
 
