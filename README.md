@@ -31,6 +31,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/hanlalaibrahim/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanlalaibrahim/"></a>
-  <a href="https://github.com/HanlalaIbrahimMG"><img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub&logoColor=white&link=https://github.com/HanlalaIbrahimMG"></a>
+  <a href="linkedin.com/in/hanlala-ibrahim/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanlalaibrahim/"></a>
+  <a href="https://github.com/HanlalaIbrahim"><img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub&logoColor=white&link=https://github.com/HanlalaIbrahimMG"></a>
 </p>
