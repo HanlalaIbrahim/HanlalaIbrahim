@@ -27,6 +27,18 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white"></a>
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HanlalaIbrahim &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HanlalaIbrahim &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HanlalaIbrahim &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HanlalaIbrahim &theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/hanlalaibrahim/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanlalaibrahim/"></a>
