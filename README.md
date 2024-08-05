@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/HanlalaIbrahim"><img src="https://img.shields.io/github/followers/HanlalaIbrahimMG?label=Follow&style=social"></a>
   <a href="mailto:hanlalaibrahim1@gmail.com"><img src="https://img.shields.io/badge/-hanlalaibrahim1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hanlalaibrahim1@gmail.com"></a>
-  <a href="https://www.linkedin.com/in/hanlalaibrahim/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanlalaibrahim/"></a>
+  <a href="linkedin.com/in/hanlala-ibrahim/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanlalaibrahim/"></a>
   <a href="https://github.com/HanlalaIbrahimMG"><img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub&logoColor=white&link=https://github.com/HanlalaIbrahimMG"></a>
   <img src="https://komarev.com/ghpvc/?username=HanlalaIbrahimMG&label=Profile%20views&color=0e75b6&style=flat" alt="HanlalaIbrahimMG" />
 </p>
