@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanlala Ibrahim M G</h1>
 <h3 align="center">A Passionate Frontend Developer and AI Enthusiast</h3>
 <p align="center">
-  <a href="https://github.com/HanlalaIbrahim"><img src="https://img.shields.io/github/followers/HanlalaIbrahimMG?label=Follow&style=social"></a>
+  <a href="https://github.com/HanlalaIbrahim"><img src="https://img.shields.io/github/followers/HanlalaIbrahim?label=Follow&style=social"></a>
   <a href="mailto:hanlalaibrahim1@gmail.com"><img src="https://img.shields.io/badge/-hanlalaibrahim1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hanlalaibrahim1@gmail.com"></a>
   <a href="linkedin.com/in/hanlala-ibrahim/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanlalaibrahim/"></a>
   <a href="https://github.com/HanlalaIbrahimMG"><img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub&logoColor=white&link=https://github.com/HanlalaIbrahimMG"></a>
